@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Kudobuzz Test Site For Agent Cheryl</title>
+
+    
+    <script>!function(){ var e=document.createElement("script");e.type="text/javascript",e.async=!0;var t=location.protocol+"//widgets.kudobuzz.com/js/widgetLoader.js";e.src=t;document.getElementsByTagName("head")[0].appendChild(e);window.Kudos={Widget:function(e){this.uid=e.uid}},Kudos.Widget({uid:"44a4x2r2v2x2w264u264w2230314y2z264t2p25453q2t2r2x2b4u2"})}()
+    </script>
+</head>
+
+<body>
+
+    <div style="margin:20px 20px 20px 20px">
+    <div id="kudobuzz_fullpage_widget" ></div>
+    </div>
+    
+
+</body>
+
+</html>
